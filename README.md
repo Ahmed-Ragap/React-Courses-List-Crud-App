@@ -5,7 +5,7 @@
 
 # __Details__
 
-### this website is about website development and design company project number { 2 }
+### this website is about Adding && Removing && Edidting Course list
 
 
 
